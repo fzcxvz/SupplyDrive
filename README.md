@@ -33,6 +33,8 @@ STL Generation:
 • Waits for each one to complete before moving on. 
 In Research Context: This completes the STL conversion pipeline — turning dynamic input 
 into a real, printable 3D file. 
+
+
 Troubleshooting & Debugging 
 A key challenge encountered during this process was correctly passing the string variable 
 (text_input) from PowerShell into OpenSCAD. OpenSCAD expects string values to be 
